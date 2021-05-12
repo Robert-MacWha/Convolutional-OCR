@@ -1,1 +1,7 @@
 Mathematical Expression Classification/preprocessed_data.npy
+/Mathematical Expression Classification/preprocessed_data_old.npy
+/.vscode
+/Mathematical Expression Classification/preprocessed_data_binarized.npy
+/Mathematical Expression Classification/preprocessed_data_gradiant.npy
+/Mathematical Expression Classification/preprocessed_data_binarized_numeric.npy
+/Mathematical Expression Classification/models
